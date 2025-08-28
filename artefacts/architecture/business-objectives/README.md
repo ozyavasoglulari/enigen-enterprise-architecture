@@ -26,9 +26,7 @@
    
    | Condition/Data/Action | Condition/Data/Action  | Condition/Data/Action |
    | -------- | --------------  | -------------- |
-   | Fred Brooks Hospital | 2 | Cardiology, Immunology |
-   | Julia Crusher Hospital | 0 | Cardiology |
-   | Beverly Bashir Hospital | 5 | Immunology, Diagnostic Neuropathology |
+   
    
    AND ...
    
