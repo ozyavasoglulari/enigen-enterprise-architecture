@@ -138,7 +138,7 @@ These risks need to be addressed using a proof of concept. See below.
  
 # Tailored Architecture
 
-The project will follow the ADM specified in the [Summary Statement of Work]().
+The project will follow the ADM specified in the [Summary Statement of Architecture Work](../architecture-sow/README.md).
 
 # Architecture Principles
 The architecture should be built on the principles outlined [Architecture Principles Document](../architecture-principles/) 
