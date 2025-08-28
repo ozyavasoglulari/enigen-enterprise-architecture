@@ -118,7 +118,7 @@ The target architecture tiers:
 The table below compares the known capabilities of the baseline platform and contrasts this with the intended target state 
 architecture.
 
-|               | **TARGET** | *Central Medical History* | *Appointments* | *Staff Scheduling* | *Bed Allocation* | *Data-Driven EMERGENCY RESPONSE* | Eliminated |  
+|               | **TARGET** | *Capability 1* | *Capability 2* | *Capability 3* | *Capability 4* | *Capability n* | Eliminated |  
 | ------------- | ---------- | ------------------------- | -------------- | ------------------ | ---------------- | -------------------------------- | ---------- | 
 | **BASELINE**  |            |                           |                |                    |                  |                                  |            |
 
