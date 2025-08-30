@@ -44,7 +44,7 @@ A conflict with a principle will be resolved by changing the framework of the in
  
 **Statement**: 
 
-Architecture and macro design decisions are made to provide maximum benefit to the enterprise as a whole in its efforts to maximize value to patients impacted by those decisions.
+Architecture and macro design decisions are made to provide maximum benefit to the enterprise as a whole in its efforts to maximize value impacted by those decisions.
 
 **Rationale:**
 
